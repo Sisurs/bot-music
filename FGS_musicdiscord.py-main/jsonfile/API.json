@@ -1,0 +1,13 @@
+{
+    "sclient_id":"db5ba7faafd34537afba4a7c1f01a845",
+	"sclient_secret":"cb4634acca644a9787a0d49083abf46b",
+    
+    "installed":{
+        "client_id":"817035671922-67e42rb62c58tc4nojfbqbhkci8tqrbb.apps.googleusercontent.com",
+        "project_id":"youtubev3-391215",
+        "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+        "token_uri":"https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret":"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",
+        "redirect_uris":["http://localhost"]}
+}
